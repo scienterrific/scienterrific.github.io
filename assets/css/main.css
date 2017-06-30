@@ -1592,3 +1592,9 @@
 		body.is-loading #footer {
 			opacity: 0;
 		}
+
+img#logo {
+	height:85px;
+	width:85px;
+	border-radius: 44px;
+}
